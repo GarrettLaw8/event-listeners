@@ -1,4 +1,4 @@
-console.log ("hello world!")
+// console.log ("hello world!")
 //console.log("hello world!")
 
 
@@ -73,16 +73,45 @@ console.log ("hello world!")
 
 //iterate an object
 
-const newUser2 = {
-  userName: "bigG8888",
-  password: "qwertasdfgbrg",
-  lovesJs: true,
-  favoriteNumber: 12,
-};
+// const newUser2 = {
+//   userName: "bigG8888",
+//   password: "qwertasdfgbrg",
+//   lovesJs: true,
+//   favoriteNumber: 12,
+// };
 
 
-for (let key in newUser2) {
-  //console.log(key)// all the keys
-  console.log(newUser2[key]);
-}
- console
+// for (let key in newUser2) {
+//   //console.log(key)// all the keys
+//   console.log(newUser2[key]);
+// }
+// console
+ 
+
+// const button = document.getElementById("BigAssButton")
+//****gets the ID of the div and returns it in the console */
+
+
+
+// const button = document.querySelector("#bigAssButton");
+
+// console.log(button)
+
+
+//Passing a function as an argument to another function 
+
+// function1 = (user) => {
+//   return `hello ${user}!`;
+
+// }
+
+// function2 = (user) => {
+//   return `goodbye ${user}!`;
+// }
+
+// function3 = (user, cb) => {
+//   return cb(user);
+// }
+
+//  console.log(function3("garrett", function1))
+//  console.log(function3 ("garrett",function2))

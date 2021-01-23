@@ -84,3 +84,4 @@ for (let key in newUser2) {
   //console.log(key)// all the keys
   console.log(newUser2[key]);
 }
+ console

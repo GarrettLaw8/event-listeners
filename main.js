@@ -1,9 +1,6 @@
 //console.log("hello world!")
 
 
-const firstObject = {
-  
-};
 
 
 // const user = {

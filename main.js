@@ -73,16 +73,26 @@ console.log ("hello world!")
 
 //iterate an object
 
-const newUser2 = {
-  userName: "bigG8888",
-  password: "qwertasdfgbrg",
-  lovesJs: true,
-  favoriteNumber: 12,
-};
+// const newUser2 = {
+//   userName: "bigG8888",
+//   password: "qwertasdfgbrg",
+//   lovesJs: true,
+//   favoriteNumber: 12,
+// };
 
 
-for (let key in newUser2) {
-  //console.log(key)// all the keys
-  console.log(newUser2[key]);
-}
- console
+// for (let key in newUser2) {
+//   //console.log(key)// all the keys
+//   console.log(newUser2[key]);
+// }
+// console
+ 
+
+// const button = document.getElementById("BigAssButton")
+//****gets the ID of the div and returns it in the console */
+
+
+
+// const button = document.querySelector("#bigAssButton");
+
+// console.log(button)
